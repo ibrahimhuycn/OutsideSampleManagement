@@ -10,3 +10,13 @@
     [Address] NCHAR(200) NOT NULL, 
     CONSTRAINT [FK_Patient_Gender] FOREIGN KEY ([GenderId]) REFERENCES [Gender]([Id])
 )
+
+
+GO
+
+
+CREATE INDEX [IX_Patient_FirstName] ON [dbo].[Patient] ([FirstName])
+
+GO
+
+CREATE INDEX [IX_Patient_LastName] ON [dbo].[Patient] ([LastName])
