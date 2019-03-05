@@ -11,10 +11,10 @@ Imports System.Windows
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("OutsideSampleManagement")>
+<Assembly: AssemblyTitle("SampleRegister")>
 <Assembly: AssemblyDescription("")>
 <Assembly: AssemblyCompany("")>
-<Assembly: AssemblyProduct("OutsideSampleManagement")>
+<Assembly: AssemblyProduct("SampleRegister")>
 <Assembly: AssemblyCopyright("Copyright ©  2019")>
 <Assembly: AssemblyTrademark("")>
 <Assembly: ComVisible(false)>
@@ -42,7 +42,7 @@ Imports System.Windows
 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("854c7705-4d60-470c-913d-e54c0e47e145")>
+<Assembly: Guid("93630715-a905-4dde-9e21-3f7fcf0d3f55")>
 
 ' Version information for an assembly consists of the following four values:
 '
